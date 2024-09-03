@@ -1,0 +1,157 @@
+*
+{
+    margin: 0px;
+}
+.sombrero
+{
+    background-color: blueviolet;
+    width: 300px;
+    height: 150px;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.sombrero2
+{
+    background-color: blueviolet;
+    width: 600px;
+    height: 100px;
+    border-radius: 100px;
+    border-color: blueviolet;
+    position: relative;
+    top: 0px;
+    left: 350px;
+}
+.carita
+{
+    background-color: red;
+    width: 500px;
+    height: 450px;
+    position: relative;
+    top: -50px;
+    left: 400px;
+    border-radius: 300px;
+    border-color: red;
+}
+.ojito1
+{
+    background-color: yellow;
+    width: 90px;
+    height: 90px;
+    border-radius: 300px;
+    border-color: yellow;
+    position: absolute;
+    top: 110px;
+    left: 100px;
+}
+.ojito2
+{
+    background-color: yellow;
+    width: 90px;
+    height: 90px;
+    border-radius: 300px;
+    border-color: yellow;
+    position: absolute;
+    top: 110px;
+    left: 300px;
+}
+.ojo1 
+{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 300px;
+    border-color: black;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+.ojo2
+{
+    background-color: black;
+    width: 40px;
+    height: 40px;
+    border-radius: 300px;
+    border-color: black;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+.boca
+{
+    background-color: greenyellow;
+    width: 300px;
+    height: 100px;
+    border-radius: 600px;
+    border-color: yellowgreen;
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+.lab
+{
+    background-color: black;
+    width: 150px;
+    height: 40px;
+    border-radius: 300px;
+    border-color: black;
+    position: absolute;
+    top: 35px;
+    left: 70px;
+}
+.corbata
+{
+    width: 500px;
+    height: 100px;
+    position: relative;
+    top: -100px;
+    left: 390px;
+}
+.corbata1
+{
+    background-color: darkgreen;
+    width: 200px;
+    height: 100px;
+    border-radius: 300px;
+    border-color: darkgreen;
+    position: absolute;
+    top: 0px;
+    left: 1px;
+}
+.corbata3
+{
+    background-color: darkgreen;
+    width: 200px;
+    height: 100px;
+    border-radius: 300px;
+    border-color: darkgreen;
+    position: absolute;
+    top: 0px;
+    left: 300px;
+}
+.corbata2
+{
+    background-color: darkgreen;
+    width: 100px;
+    height: 100px;
+    border-radius: 500px;
+    border-color: darkgreen;
+    position: absolute;
+    top: 0px;
+    left: 200px;
+}
+
+.nombre
+{
+    text-align: center;
+    color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
